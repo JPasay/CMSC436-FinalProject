@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMSC436Project.iml" filepath="$PROJECT_DIR$/CMSC436Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../jnadimpalli/Documents/Group Project/Ivan Branch/CMSC436Project/CMSC436Project.iml" filepath="$PROJECT_DIR$/../../../jnadimpalli/Documents/Group Project/Ivan Branch/CMSC436Project/CMSC436Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC436Project-iquach.iml" filepath="$PROJECT_DIR$/CMSC436Project-iquach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../jnadimpalli/Documents/Group Project/Ivan Branch/CMSC436Project/CMSC436ProjectTest.iml" filepath="$PROJECT_DIR$/../../../jnadimpalli/Documents/Group Project/Ivan Branch/CMSC436Project/CMSC436ProjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../jnadimpalli/Documents/Group Project/Ivan Branch/CMSC436Project/app/app.iml" filepath="$PROJECT_DIR$/../../../jnadimpalli/Documents/Group Project/Ivan Branch/CMSC436Project/app/app.iml" />
+    </modules>
+  </component>
+</project>
